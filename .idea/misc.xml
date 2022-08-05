@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/SFLiveChat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4036458333333333" />
+        <entry key="..\:/Projects/SFLiveChat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4036458333333333" />
+        <entry key="..\:/Projects/SFLiveChat/app/src/main/res/drawable/salesforce_agent_avatar.xml" value="0.4036458333333333" />
+        <entry key="..\:/Projects/SFLiveChat/app/src/main/res/drawable/salesforce_ic_camera.xml" value="0.23541666666666666" />
+        <entry key="..\:/Projects/SFLiveChat/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/Projects/SFLiveChat/app/src/main/res/layout/salesforce_message_input.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/SFLiveChat/app/src/main/res/menu/chat_feed_toolbar_menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/Projects/SFLiveChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4036458333333333" />
+        <entry key="..\:/Projects/SFLiveChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/agent_initial_avatar.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_banner_container.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_bot_footer_menu_header_item.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_button_menu.xml" value="0.3442028985507246" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_dialog_end_session.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_dialog_select_image_source.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_feed_activity.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_fullscreen_connecting.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_fullscreen_queued.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_menu_message.xml" value="0.3875" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_message_spacer.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_minimized_connecting.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_minimized_in_session.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_minimized_post_session.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_minimized_queued.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_privacy_warning_message.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chat_resume_error.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/chatbot_transfer_waiting_indicator.xml" value="0.3442028985507246" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/pre_chat.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/pre_chat_field_email.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/layout/pre_chat_field_header.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/83ebd5c6ed8df0dd7515293c4541e50c/transformed/jetified-chat-ui-4.3.0/res/menu/chat_feed_toolbar_menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/936684b777ff078e96d80886a81fb021/transformed/jetified-chat-ui-4.3.0/res/drawable/chat_menu_header.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/ccf467214b8d191e6358cc35bf108635/transformed/jetified-chat-ui-4.2.0/res/layout/chat_dialog_end_session.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/ccf467214b8d191e6358cc35bf108635/transformed/jetified-chat-ui-4.2.0/res/layout/chat_dialog_select_image_source.xml" value="0.29936594202898553" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/f261c0768cd53eafed49cac5e2b83fcd/transformed/jetified-common-ui-8.0.5/res/layout/minimized_container.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/f261c0768cd53eafed49cac5e2b83fcd/transformed/jetified-common-ui-8.0.5/res/layout/minimized_view.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/f261c0768cd53eafed49cac5e2b83fcd/transformed/jetified-common-ui-8.0.5/res/layout/pick_list_drop_down_item.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/f261c0768cd53eafed49cac5e2b83fcd/transformed/jetified-common-ui-8.0.5/res/layout/salesforce_connection_banner.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/f261c0768cd53eafed49cac5e2b83fcd/transformed/jetified-common-ui-8.0.5/res/layout/salesforce_loading_ball.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/f261c0768cd53eafed49cac5e2b83fcd/transformed/jetified-common-ui-8.0.5/res/layout/salesforce_message_agent_is_typing.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/f261c0768cd53eafed49cac5e2b83fcd/transformed/jetified-common-ui-8.0.5/res/layout/salesforce_message_horizontal_rule.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/f261c0768cd53eafed49cac5e2b83fcd/transformed/jetified-common-ui-8.0.5/res/layout/salesforce_message_input.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/wern_/.gradle/caches/transforms-3/f261c0768cd53eafed49cac5e2b83fcd/transformed/jetified-common-ui-8.0.5/res/layout/salesforce_message_sent.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
